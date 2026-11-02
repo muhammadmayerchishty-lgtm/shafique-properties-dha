@@ -1,0 +1,8 @@
+{
+  "name": "SHAFIQUE PROPERTIES",
+  "description": "Premium real estate agency in DHA Lahore, Pakistan. Buy, sell, and rent luxury bungalows, plots, and commercial properties with Naveed Shafique. Concept demo by ORION IT SOLUTIONS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
